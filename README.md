@@ -1,4 +1,4 @@
-![logo](https://github.com/sahsujit/sahsujit/blob/main/github-header-image%20(1).png)
+![logo](https://github.com/sahsujit/sahsujit/blob/main/github-header-image%20(2).png)
 <h1 align="center">Hi 👋, I'm Sujit Sah</h1>
 <h3 align="center">A passionate Mern Stack developer from Nepal</h3>
 
