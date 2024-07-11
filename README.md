@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/@sujitsah1388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sujitsah1388" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sujit sah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujit sah" height="30" width="40" /></a>
-<a href="[https://fb.com/sujit sah](https://www.facebook.com/profile.php?id=100073761861671)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujit sah" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100073761861671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujit sah" height="30" width="40" /></a>
 <a href="https://instagram.com/sujit_sah_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujit_sah_18" height="30" width="40" /></a>
 </p>
 
