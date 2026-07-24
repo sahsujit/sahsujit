@@ -199,4 +199,12 @@ A voice-enabled virtual assistant capable of understanding user commands, answer
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:0D0D0D&height=120&section=footer" width="100%"/>
 
+
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahsujit/sahsujit/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 </div>
