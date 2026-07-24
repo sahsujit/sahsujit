@@ -130,7 +130,7 @@ A voice-enabled virtual assistant capable of understanding user commands, answer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahsujit&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-stats-g1he-43yx5mizk-sahsujit-s-team.vercel.app/api?username=sahsujit&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahsujit&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&text_color=FFFFFF" width="48%" />
 
 <br/>
