@@ -18,25 +18,21 @@
 
 ## 🧭 About Me
 
-<div align="center">
-
-
+```js
 class SujitSah {
-constructor() {
-this.name = "Sujit Sah";
-this.location = "Nepal 🇳🇵";
-this.role = "Computer Engineering Student";
-this.stack = "Full Stack Web Developer (MERN)";
-this.learning = "Rust 🦀 (not a Rust dev... yet)";
-this.foundation = "C Programming";
-this.os = "Linux Enthusiast";
-this.interests = ["Systems Programming", "Cybersecurity"];
-this.contributor = "Open Source Learner";
+  constructor() {
+    this.name        = "Sujit Sah";
+    this.location    = "Nepal 🇳🇵";
+    this.role        = "Computer Engineering Student";
+    this.stack       = "Full Stack Web Developer (MERN)";
+    this.learning    = "Rust 🦀 (not a Rust dev... yet)";
+    this.foundation  = "C Programming";
+    this.os          = "Linux Enthusiast";
+    this.interests   = ["Systems Programming", "Cybersecurity"];
+    this.contributor = "Open Source Learner";
+  }
 }
-}
-
-
-</div>
+```
 
 - 🎓 Computer Engineering student building a strong CS foundation
 - 💻 Full Stack Web Developer — shipped multiple **MERN Stack** projects
@@ -45,7 +41,6 @@ this.contributor = "Open Source Learner";
 - 🐧 **Linux enthusiast** who enjoys tinkering with the terminal
 - 🔐 Growing interest in **Cybersecurity**
 - 🌱 Learning the ropes of **Open Source**
-
 <br/>
 
 ## 🛠️ Tech Stack
