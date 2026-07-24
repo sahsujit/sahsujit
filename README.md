@@ -173,7 +173,7 @@ A voice-enabled virtual assistant capable of understanding user commands, answer
 
 <div align="center">
 
-<a href="https://sujit-sah-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FF6B00" /></a>
+<a href="https://sujit-portfolio-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FF6B00" /></a>
 <a href="https://github.com/sahsujit"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF6B00" /></a>
 <a href="https://linkedin.com/in/sujit-sah-619090274/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF6B00" /></a>
 <a href="mailto:sah.sujit1388@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
