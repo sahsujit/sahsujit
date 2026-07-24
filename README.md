@@ -1,31 +1,205 @@
-![logo](https://github.com/sahsujit/sahsujit/blob/main/github-header-image%20(2).png)
-<h1 align="center">Hi 👋, I'm Sujit Sah</h1>
-<h3 align="center">A passionate Mern Stack developer from Nepal</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahsujit&label=Profile%20views&color=0e75b6&style=flat" alt="sahsujit" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:FF6B00&height=220&section=header&text=Sujit%20Sah&fontSize=60&fontColor=FF6B00&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Systems%20Programming%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
 
-<img align="right" width="400" alt="coding" src="https://camo.githubusercontent.com/862f48a9043e8165541b09a5a64d969f1c155e0768a90e7a3d56f36efd8a82b3/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966" />
+<a href="https://github.com/sahsujit">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Currently+Learning+Rust+%F0%9F%A6%80;Linux+Enthusiast;Computer+Engineering+Student" alt="Typing SVG" />
+</a>
 
-- 📫 How to reach me **sah.sujit1388@gmail.com**
+<br/>
 
-- ⚡ Fun fact **I think I am funny**
+<img src="https://img.shields.io/badge/Nepal-🇳🇵-FF6B00?style=for-the-badge&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Status-Learning%20Rust-FF6B00?style=for-the-badge&labelColor=0D0D0D" />
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-FF6B00?style=for-the-badge&labelColor=0D0D0D" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@sujitsah1388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sujitsah1388" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sujit-sah-619090274/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sujit sah" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100073761861671" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sujit sah" height="30" width="40" /></a>
-<a href="https://instagram.com/sujit_sah_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sujit_sah_18" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<br/>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/sujit_sah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Sujit Sah" /></a></p><br><br>
+## 🧭 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahsujit&show_icons=true&locale=en&layout=compact" alt="sahsujit" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahsujit&show_icons=true&locale=en" alt="sahsujit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahsujit&" alt="sahsujit" /></p>
+class SujitSah {
+constructor() {
+this.name = "Sujit Sah";
+this.location = "Nepal 🇳🇵";
+this.role = "Computer Engineering Student";
+this.stack = "Full Stack Web Developer (MERN)";
+this.learning = "Rust 🦀 (not a Rust dev... yet)";
+this.foundation = "C Programming";
+this.os = "Linux Enthusiast";
+this.interests = ["Systems Programming", "Cybersecurity"];
+this.contributor = "Open Source Learner";
+}
+}
+
+
+</div>
+
+- 🎓 Computer Engineering student building a strong CS foundation
+- 💻 Full Stack Web Developer — shipped multiple **MERN Stack** projects
+- 🦀 Currently **learning Rust** — exploring ownership, borrowing & systems-level thinking
+- 🧠 Strong foundation in **C Programming**
+- 🐧 **Linux enthusiast** who enjoys tinkering with the terminal
+- 🔐 Growing interest in **Cybersecurity**
+- 🌱 Learning the ropes of **Open Source**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,js,rust&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,neovim,postman&theme=dark" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏫 Smart School Management System
+Full-stack MERN platform for schools with role-based dashboards.
+
+`MongoDB` `Express` `React` `Node.js`
+
+[🔗 Repo](https://github.com/sahsujit) · [🌍 Live Demo](#)
+
+</td>
+<td width="50%">
+
+### 📚 StudyNotion
+EdTech platform for creating & consuming online courses.
+
+`MongoDB` `Express` `React` `Node.js`
+
+[🔗 Repo](https://github.com/sahsujit) · [🌍 Live Demo](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 E-Commerce Website
+Full-featured online store with cart, auth & payments.
+
+`React` `Node.js` `MongoDB` `Tailwind CSS`
+
+[🔗 Repo](https://github.com/sahsujit) · [🌍 Live Demo](#)
+
+</td>
+<td width="50%">
+
+### 🚕 Uber Clone
+Real-time ride booking app with maps & live tracking.
+
+`React` `Node.js` `Socket.io` `MongoDB`
+
+[🔗 Repo](https://github.com/sahsujit) · [🌍 Live Demo](#)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sahsujit&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&icon_color=FF6B00&text_color=FFFFFF" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahsujit&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF6B00&text_color=FFFFFF" width="48%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahsujit&theme=radical&hide_border=true&background=0D0D0D&stroke=FF6B00&ring=FF6B00&fire=FF6B00&currStreakLabel=FF6B00" width="70%" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sahsujit&theme=redical&bg_color=0D0D0D&color=FF6B00&line=FF6B00&point=FFFFFF&hide_border=true" width="90%" />
+
+</div>
+
+<br/>
+
+## 🦀 Currently Learning: Rust
+
+<div align="center">
+
+| Concept | Status |
+|---|---|
+| Ownership | 🟠 In Progress |
+| Borrowing | 🟠 In Progress |
+| Lifetimes | 🟠 In Progress |
+| Traits | 🟠 In Progress |
+| Generics | 🟠 In Progress |
+| Cargo | 🟠 In Progress |
+
+</div>
+
+### 🎯 Goals
+
+- 🦀 Master Rust
+- ⚙️ Learn Systems Programming
+- 🌍 Contribute to Open Source
+- 🖥️ Build CLI applications
+- 🔐 Learn Cybersecurity
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://sujit-sah-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FF6B00" /></a>
+<a href="https://github.com/sahsujit"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF6B00" /></a>
+<a href="https://linkedin.com/in/sujit-sah-619090274/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF6B00" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sahsujit&color=ff6b00&style=for-the-badge&label=Profile+Views)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💭 *"The expert in anything was once a beginner who refused to give up."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:0D0D0D&height=120&section=footer" width="100%"/>
+
+</div>
