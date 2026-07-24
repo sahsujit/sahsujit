@@ -1,0 +1,100 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0A0A"/>
+      <stop offset="55%" stop-color="#151312"/>
+      <stop offset="100%" stop-color="#2A1608"/>
+    </linearGradient>
+
+    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF7A18"/>
+      <stop offset="100%" stop-color="#FF3D00"/>
+    </linearGradient>
+
+    <linearGradient id="orangeGradSoft" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FF8A3D" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#B33F00" stop-opacity="0.9"/>
+    </linearGradient>
+
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FF6A00" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#FF6A00" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="codePattern" width="220" height="40" patternUnits="userSpaceOnUse">
+      <text x="0" y="20" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#FF7A18" fill-opacity="0.07">fn main() {'{'} let x: u8 {'='} 10; {'}'}</text>
+    </pattern>
+
+    <pattern id="codePattern2" width="260" height="40" patternUnits="userSpaceOnUse" patternTransform="translate(60,20)">
+      <text x="0" y="20" font-family="Consolas, 'Courier New', monospace" font-size="13" fill="#FF7A18" fill-opacity="0.05">impl Trait for T {'{'} Ok(()) {'}'}</text>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1280" height="320" fill="url(#bgGrad)"/>
+
+  <!-- Abstract code background -->
+  <rect width="1280" height="320" fill="url(#codePattern)"/>
+  <rect width="1280" height="320" fill="url(#codePattern2)"/>
+
+  <!-- Ambient glow -->
+  <circle cx="1120" cy="80" r="260" fill="url(#glow)"/>
+  <circle cx="120" cy="280" r="220" fill="url(#glow)"/>
+
+  <!-- Thin grid lines for depth -->
+  <g stroke="#FF7A18" stroke-opacity="0.08" stroke-width="1">
+    <line x1="0" y1="80" x2="1280" y2="80"/>
+    <line x1="0" y1="240" x2="1280" y2="240"/>
+    <line x1="320" y1="0" x2="320" y2="320"/>
+    <line x1="960" y1="0" x2="960" y2="320"/>
+  </g>
+
+  <!-- Rust-gear inspired abstract shape, right side -->
+  <g transform="translate(1090,160)" opacity="0.9">
+    <circle r="78" fill="none" stroke="url(#orangeGrad)" stroke-width="3" stroke-opacity="0.6"/>
+    <circle r="52" fill="none" stroke="url(#orangeGrad)" stroke-width="2" stroke-opacity="0.45"/>
+    <g stroke="url(#orangeGrad)" stroke-width="3" stroke-opacity="0.55">
+      <line x1="0" y1="-92" x2="0" y2="-78"/>
+      <line x1="0" y1="78" x2="0" y2="92"/>
+      <line x1="-92" y1="0" x2="-78" y2="0"/>
+      <line x1="92" y1="0" x2="78" y2="0"/>
+      <line x1="-65" y1="-65" x2="-55" y2="-55"/>
+      <line x1="65" y1="-65" x2="55" y2="-55"/>
+      <line x1="-65" y1="65" x2="-55" y2="55"/>
+      <line x1="65" y1="65" x2="55" y2="55"/>
+    </g>
+    <circle r="10" fill="url(#orangeGrad)" opacity="0.85"/>
+  </g>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="8" height="320" fill="url(#orangeGradSoft)"/>
+
+  <!-- Small angle bracket accents -->
+  <text x="70" y="115" font-family="Consolas, 'Courier New', monospace" font-size="22" fill="#FF7A18" fill-opacity="0.5">&lt;/&gt;</text>
+
+  <!-- Main Name -->
+  <text x="70" y="160" font-family="'Segoe UI', Arial, sans-serif" font-size="64" font-weight="700" fill="#FFFFFF" letter-spacing="4">
+    SUJIT <tspan fill="url(#orangeGrad)">SAH</tspan>
+  </text>
+
+  <!-- Subtitle line 1 -->
+  <text x="72" y="196" font-family="'Segoe UI', Arial, sans-serif" font-size="21" fill="#E8E8E8" letter-spacing="1">
+    Full Stack Web Developer
+  </text>
+
+  <!-- Subtitle line 2 -->
+  <text x="72" y="224" font-family="'Segoe UI', Arial, sans-serif" font-size="19" fill="#FF9548" letter-spacing="0.5">
+    Currently Learning Rust 🦀
+  </text>
+
+  <!-- Divider line -->
+  <line x1="72" y1="252" x2="600" y2="252" stroke="url(#orangeGrad)" stroke-width="2" stroke-opacity="0.6"/>
+
+  <!-- Bottom tags -->
+  <text x="72" y="284" font-family="Consolas, 'Courier New', monospace" font-size="16" letter-spacing="1">
+    <tspan fill="#FF7A18">Linux</tspan><tspan fill="#8A8A8A"> • </tspan><tspan fill="#FFFFFF">C</tspan><tspan fill="#8A8A8A"> • </tspan><tspan fill="#FF7A18">MERN</tspan><tspan fill="#8A8A8A"> • </tspan><tspan fill="#FFFFFF">Rust</tspan><tspan fill="#8A8A8A"> • </tspan><tspan fill="#FF7A18">MySQL</tspan>
+  </text>
+
+  <!-- Outer border -->
+  <rect x="1" y="1" width="1278" height="318" fill="none" stroke="url(#orangeGrad)" stroke-width="1.5" stroke-opacity="0.35"/>
+</svg>
