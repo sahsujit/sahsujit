@@ -84,7 +84,7 @@ Full-stack MERN platform for schools with role-based dashboards.
 
 `MongoDB` `Express` `React` `Node.js`
 
-[🔗 Repo](https://github.com/sahsujit) · [🌍 Live Demo](#)
+[🔗 Repo]([https://github.com/sahsujit](https://github.com/sahsujit/Smart-School)) · [🌍 Live Demo](https://smart-school-three.vercel.app/)
 
 </td>
 <td width="50%">
@@ -94,7 +94,7 @@ EdTech platform for creating & consuming online courses.
 
 `MongoDB` `Express` `React` `Node.js`
 
-[🔗 Repo](https://github.com/sahsujit) · [🌍 Live Demo](#)
+[🔗 Repo]([https://github.com/sahsujit](https://github.com/sahsujit/Mega-StudyNotion)) · [🌍 Live Demo](https://mega-study-notion.vercel.app/)
 
 </td>
 </tr>
@@ -106,17 +106,17 @@ Full-featured online store with cart, auth & payments.
 
 `React` `Node.js` `MongoDB` `Tailwind CSS`
 
-[🔗 Repo](https://github.com/sahsujit) · [🌍 Live Demo](#)
+[🔗 Repo]([https://github.com/sahsujit](https://github.com/sahsujit/Ecommerce)) · [🌍 Live Demo](#)
 
 </td>
 <td width="50%">
 
-### 🚕 Uber Clone
-Real-time ride booking app with maps & live tracking.
+### 🎙️ Jarvis
+A voice-enabled virtual assistant capable of understanding user commands, answering questions, and automating everyday tasks.
 
-`React` `Node.js` `Socket.io` `MongoDB`
+`React` `Node.js` `Express.js` `MongoDB`
 
-[🔗 Repo](https://github.com/sahsujit) · [🌍 Live Demo](#)
+[🔗 Repo]([https://github.com/sahsujit/YOUR_JARVIS_REPO](https://github.com/sahsujit/jarvis_frontend)) · [🌍 Live Demo](https://jarvis-frontend-six.vercel.app/)
 
 </td>
 </tr>
@@ -151,8 +151,7 @@ Real-time ride booking app with maps & live tracking.
 
 | Concept | Status |
 |---|---|
-| Ownership | 🟠 In Progress |
-| Borrowing | 🟠 In Progress |
+
 | Lifetimes | 🟠 In Progress |
 | Traits | 🟠 In Progress |
 | Generics | 🟠 In Progress |
@@ -166,7 +165,7 @@ Real-time ride booking app with maps & live tracking.
 - ⚙️ Learn Systems Programming
 - 🌍 Contribute to Open Source
 - 🖥️ Build CLI applications
-- 🔐 Learn Cybersecurity
+
 
 <br/>
 
@@ -177,7 +176,7 @@ Real-time ride booking app with maps & live tracking.
 <a href="https://sujit-sah-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FF6B00" /></a>
 <a href="https://github.com/sahsujit"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=FF6B00" /></a>
 <a href="https://linkedin.com/in/sujit-sah-619090274/"><img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF6B00" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
+<a href="mailto:sah.sujit1388@gmail.com"><img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6B00" /></a>
 
 </div>
 
