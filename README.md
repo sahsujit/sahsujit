@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahsujit/sahsujit/main/assets/banner.svg" width="100%" />
-</p>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:FF6B00&height=220&section=header&text=Sujit%20Sah&fontSize=60&fontColor=FF6B00&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20Systems%20Programming%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
